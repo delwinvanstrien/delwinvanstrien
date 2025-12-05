@@ -7,7 +7,7 @@ Here is a selection of some projects that I've completed. Feel free to explore t
 
 [☕ Coffee Database Exploratory Data Analysis](https://github.com/delwinvanstrien/coffee-database-eda) (SQL, NoSQL) <br>
 [📊 Singapore Job Market Dashboard](https://github.com/delwinvanstrien/singapore-job-market-dashboard) (Python) <br>
-[🔍 Misinformation Detection using Machine Learning](https://github.com/delwinvanstrien/misinformation-detection-ml) (R)
+[🔍 Misinformation Detection Using Machine Learning](https://github.com/delwinvanstrien/misinformation-detection-ml) (R)
 
 ## 🛠️ Tools
 

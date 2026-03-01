@@ -6,8 +6,9 @@ I’m currently a student at NTU Singapore pursuing a Master of Science in Busin
 Here is a selection of some projects that I've completed. Feel free to explore these and others in my repositories.
 
 [☕ Coffee Database Exploratory Data Analysis](https://github.com/delwinvanstrien/coffee-database-eda) (SQL, NoSQL) <br>
-[📊 Singapore Job Market Dashboard](https://github.com/delwinvanstrien/singapore-job-market-dashboard) (Python) <br>
-[🔍 Misinformation Detection Using Machine Learning](https://github.com/delwinvanstrien/misinformation-detection-ml) (R)
+[📊 Singapore Job Market Dashboard](https://github.com/delwinvanstrien/singapore-job-market-dashboard) (Python, Streamlit) <br>
+[🔍 Misinformation Detection Using Machine Learning](https://github.com/delwinvanstrien/misinformation-detection-ml) (R) <br>
+[🛍️ CDC Voucher System](https://github.com/delwinvanstrien/cdc-voucher-system) (Python, Flask, Flet)
 
 ## 🛠️ Tools
 
